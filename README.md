@@ -30,6 +30,15 @@ The results show...
 
 ### Additional suggestions for future visualizations
 
+Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+* first
+* second
+
+
+
+
+
+
 The dataset used for this exercise contained information only regarding Citibike in NYC. However, much of the information important to investors would have to do with Des Moines itself as a market for rental bikes. For example, it would be helpful to provide visualizations regarding:
 
 * A map showing population density of Des Moines vs. NYC, especially relative to the places frequented by tourists
