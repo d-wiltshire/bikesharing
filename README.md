@@ -18,7 +18,7 @@ The Tableau Story contains seven visualizations:
 * Trips by Weekday per Hour: a graph of the number of bike trips by weekday for each hour of the day as a heatmap
 * Trips by Gender (Weekday per Hour): a graph of the number of bike trips by weekday for each hour of the day as a heatmap, divided by gender into multiple heatmaps
 * Trips by Gender, by Weekday, by User Type: a heatmap that shows the number of bike trips broken down by gender for each day of the week by each user type (i.e., whether the user is a customer or a subscriber)
-*
+* Customers by User Type: a pie chart depicting the percentages of users who are customers and who are subscribers
 *
 *
 
