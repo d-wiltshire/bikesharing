@@ -52,7 +52,7 @@ The Tableau Story contains seven visualizations:
 * Trips by Gender, by Weekday, by User Type: a heatmap that shows the number of bike trips broken down by gender for each day of the week by each user type (i.e., whether the user is a customer or a subscriber)
   - This heatmap shows the number of rides per weekday, broken down by day, gender, and user type (non-subscriber or subscriber). Most rides were taken by male subscribers, especially toward the end of the week (Thursday-Saturday)
 
-![tableau5](https://user-images.githubusercontent.com/100863488/171236762-b370a121-3eab-4639-8984-51917eb3169d.png)
+![tableau5](https://user-images.githubusercontent.com/100863488/171242037-4d7e6304-da31-46a0-8fab-c04a8e044de7.png)
 
 
 
