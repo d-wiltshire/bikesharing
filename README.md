@@ -17,18 +17,60 @@ The Tableau Story contains seven visualizations:
 
 * Checkout Times for Users (i.e., checkout durations): a graph of the duration of time that bikes are checked out for all riders
   - The results show that the vast majority of riders checked out a bike for less than an hour.
+
+![tableau1](https://user-images.githubusercontent.com/100863488/171236581-3483720f-9951-4429-a904-275d9f320aaa.png)
+
+
+
+
+
 * Checkout Times by Gender: a graph of the duration of time that bikes are checked out for all riders, broken down by gender
   - The results show that the trends for ride duration among the genders are similar. In addition, these results show that the majority of rides are taken by men.
+
+![tableau2](https://user-images.githubusercontent.com/100863488/171236614-aefb712a-31a8-41d1-bde1-5e92e881bd99.png)
+
+
+
+
+
+
 * Trips by Weekday per Hour: a graph of the number of bike trips by weekday for each hour of the day as a heatmap
   - This heatmap shows the most frequent concluding times for trips. Most trips were taken during morning and afternoon weekday rush hour.
+
+![tableau3](https://user-images.githubusercontent.com/100863488/171236675-00003e65-0798-42b6-ba35-35e654cbfbbc.png)
+
+
+
+
 * Trips by Gender (Weekday per Hour): a graph of the number of bike trips by weekday for each hour of the day as a heatmap, divided by gender into multiple heatmaps
   - This heatmap shows the most frequent concluding times for trips, broken down by gender. Most trips were taken during morning and afternoon weekday rush hour, and the trends between men and women are very similar.
+
+![tableau4](https://user-images.githubusercontent.com/100863488/171236717-03a4af4c-0d09-47dd-a03a-156093f5ffc7.png)
+
+
+
 * Trips by Gender, by Weekday, by User Type: a heatmap that shows the number of bike trips broken down by gender for each day of the week by each user type (i.e., whether the user is a customer or a subscriber)
   - This heatmap shows the number of rides per weekday, broken down by day, gender, and user type (non-subscriber or subscriber). Most rides were taken by male subscribers, especially toward the end of the week (Thursday-Saturday)
+
+![tableau5](https://user-images.githubusercontent.com/100863488/171236762-b370a121-3eab-4639-8984-51917eb3169d.png)
+
+
+
+
 * Customers by User Type: a pie chart depicting the percentages of users who are customers and who are subscribers
   - The results show that the vast majority of rides were taken by subscribers.
+
+![tableau6](https://user-images.githubusercontent.com/100863488/171236809-d5439873-ebc7-481c-8e7f-bba3e3269386.png)
+
+
+
+
 * Bike Usage by Hour: a bar chart showing the hours of the day when rides were initiated (trip start time)
   - This bar chart shows the most frequent times for users to initiate bike trips. The heaviest usage falls during rush hour times (7-10AM and 5-8PM).
+
+![tableau7](https://user-images.githubusercontent.com/100863488/171236829-497d25de-a196-46d6-8e5d-ca4c643d6779.png)
+
+
 
 
 
