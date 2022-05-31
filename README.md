@@ -11,19 +11,22 @@ The resulting Story <a href="https://public.tableau.com/app/profile/david1924/vi
 
 The Tableau Story contains seven visualizations:
 
-* Checkout Times for Users: a graph of the length of time that bikes are checked out for all riders
-  - The results show
-* Checkout Times by Gender: a graph of the length of time that bikes are checked out for all riders, broken down by gender
-  - The
+* Checkout Times for Users (i.e., checkout durations): a graph of the duration of time that bikes are checked out for all riders
+  - The results show that the vast majority of riders checked out a bike for less than an hour.
+* Checkout Times by Gender: a graph of the duration of time that bikes are checked out for all riders, broken down by gender
+  - The results show that the trends for ride duration among the genders are similar. In addition, these results show that the majority of rides are taken by men.
 * Trips by Weekday per Hour: a graph of the number of bike trips by weekday for each hour of the day as a heatmap
+  - The results show
 * Trips by Gender (Weekday per Hour): a graph of the number of bike trips by weekday for each hour of the day as a heatmap, divided by gender into multiple heatmaps
+  - The results show
 * Trips by Gender, by Weekday, by User Type: a heatmap that shows the number of bike trips broken down by gender for each day of the week by each user type (i.e., whether the user is a customer or a subscriber)
+  - The results show
 * Customers by User Type: a pie chart depicting the percentages of users who are customers and who are subscribers
+  - The results show
 * Bike Usage by Hour: a bar chart showing the hours of the day when rides were initiated (trip start time)
-* 
+  - The results show
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
+
 
 ## Summary
 
