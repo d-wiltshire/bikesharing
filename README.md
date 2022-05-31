@@ -19,8 +19,8 @@ The Tableau Story contains seven visualizations:
 * Trips by Gender (Weekday per Hour): a graph of the number of bike trips by weekday for each hour of the day as a heatmap, divided by gender into multiple heatmaps
 * Trips by Gender, by Weekday, by User Type: a heatmap that shows the number of bike trips broken down by gender for each day of the week by each user type (i.e., whether the user is a customer or a subscriber)
 * Customers by User Type: a pie chart depicting the percentages of users who are customers and who are subscribers
-*
-*
+* Bike Usage by Hour: a bar chart showing the hours of the day when rides were initiated (trip start time)
+* 
 
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
