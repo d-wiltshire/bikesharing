@@ -22,6 +22,7 @@ A graph of the duration of time that bikes are checked out for all riders
 
 * The results show that the vast majority of riders checked out a bike for less than an hour.
 
+---
 
 
 
@@ -32,6 +33,7 @@ A graph of the duration of time that bikes are checked out for all riders, broke
 
 * The results show that the trends for ride duration among the genders are similar. In addition, these results show that the majority of rides are taken by men.
 
+---
 
 
 
@@ -42,6 +44,9 @@ A graph of the number of bike trips by weekday for each hour of the day as a hea
 
 * This heatmap shows the most frequent concluding times for trips. Most trips were taken during morning and afternoon weekday rush hour.
 
+---
+
+
 
 ### Trips by Gender (Weekday per Hour)
 A graph of the number of bike trips by weekday for each hour of the day as a heatmap, divided by gender into multiple heatmaps
@@ -50,15 +55,18 @@ A graph of the number of bike trips by weekday for each hour of the day as a hea
 
 * This heatmap shows the most frequent concluding times for trips, broken down by gender. Most trips were taken during morning and afternoon weekday rush hour, and the trends between men and women are very similar.
 
+---
+
 
 
 ### Trips by Gender, by Weekday, by User Type
-A heatmap that shows the number of bike trips broken down by gender for each day of the week by each user type (i.e., whether the user is a customer or a subscriber)
+A heatmap that shows the number of bike trips broken down by gender for each day of the week by each user type (i.e., whether the user is a non-subscriber or a subscriber)
 
 ![tableau5](https://user-images.githubusercontent.com/100863488/171242037-4d7e6304-da31-46a0-8fab-c04a8e044de7.png)
 
-* This heatmap shows the number of rides per weekday, broken down by day, gender, and user type (non-subscriber or subscriber). Most rides were taken by male subscribers, especially toward the end of the week (Thursday-Saturday)
+* Most rides were taken by male subscribers, especially toward the end of the week (Thursday-Saturday).
 
+---
 
 
 
@@ -70,8 +78,9 @@ A pie chart depicting the percentages of users who are customers and who are sub
 
 * The results show that the vast majority of rides were taken by subscribers.
 
-
-
+---
+ 
+ 
 
 ### Bike Usage by Hour
 A bar chart showing the hours of the day when rides were initiated (trip start time)
@@ -81,7 +90,7 @@ A bar chart showing the hours of the day when rides were initiated (trip start t
 
 * This bar chart shows the most frequent times for users to initiate bike trips. The heaviest usage falls during rush hour times (7-10AM and 5-8PM).
 
-
+---
 
 
 
