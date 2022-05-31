@@ -42,6 +42,6 @@ The results show that the majority of NYC users in August 2019 were subscribers 
 
 We could use the current dataset to create additional helpful visualizations to assist our investors:
 
-* first
-* second
+* Because start and stop locations are included in the dataset, we could create a visualization regarding the average trip length (in miles/kilometers). If places of interest in Des Moines are much more distant from one another than the average trip length in NYC, Des Moines might not be a good candidate for investment.
+* Because birth year is included in the dataset, we could create a visualization regarding the ages of users and their relative usage rates. If the most frequent age ranges of users in NYC are not well represented among the demographics in Des Moines (for example, if the most frequent users in NYC are men in their 20's, and if NYC has a far higher population of men in their 20's than Des Moines), there might not be as solid a market in Des Moines as in NYC.
 
