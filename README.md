@@ -34,9 +34,9 @@ The Tableau Story contains seven visualizations:
 
 ## Summary
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+The results show that the majority of users are subscribers and male, and the highest use periods are on weekdays during morning and evening rush hours. This suggests that the majority of users in NYC are not tourists but residents who rely on Citibike for a daily commute. Therefore, in order to determine whether a similar bikesharing model would work well for a city like Des Moines, additional information regarding tourism dollars would be less helpful than information like 1) the population density of Des Moines and proximity between residential areas and commercial areas, 2) a map of Des Moines indicating which streets have bike lanes or where bikes are permitted on sidewalks
 
-The results show...
+
 
 ### Additional suggestions for future visualizations
 
