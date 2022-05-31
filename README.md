@@ -11,8 +11,8 @@ The resulting Story can be viewed on Tableau Public here. (insert link)
 
 The Tableau Story contains seven visualizations:
 
-*
-*
+* Checkout Times for Users: a graph of the length of time that bikes are checked out for all riders
+* Checkout Times by Gender: a graph of the length of time that bikes are checked out for all riders, broken down by gender
 *
 *
 *
