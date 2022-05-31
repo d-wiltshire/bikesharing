@@ -7,6 +7,10 @@ The goal of this exercise is to analyze NYC Citibike data from August 2019 and t
 The resulting Story <a href="https://public.tableau.com/app/profile/david1924/viz/August2019CitibikeUsage/August2019CitibikeUsage">can be viewed on Tableau Public here</a>.
 
 
+### Note
+The data used here were downloaded from the Citibike website. The "trip duration" data were originally stored with the "integer" datatype. This column was converted to a "datetime" datatype using Python and Pandas in Jupyter Notebook before use in the graphs presented here. This Python code is included in this repository.
+
+
 ## Results
 
 The Tableau Story contains seven visualizations:
