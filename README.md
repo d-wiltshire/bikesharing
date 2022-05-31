@@ -22,9 +22,9 @@ The Tableau Story contains seven visualizations:
 * Trips by Weekday per Hour: a graph of the number of bike trips by weekday for each hour of the day as a heatmap
   - This heatmap shows the most frequent concluding times for trips. Most trips were taken during morning and afternoon weekday rush hour.
 * Trips by Gender (Weekday per Hour): a graph of the number of bike trips by weekday for each hour of the day as a heatmap, divided by gender into multiple heatmaps
-  - This heatmap shows the most frequent concluding times for trips, broken down by gender. Most trips were taken during morning and afternoon weekday rush hour.
+  - This heatmap shows the most frequent concluding times for trips, broken down by gender. Most trips were taken during morning and afternoon weekday rush hour, and the trends between men and women are very similar.
 * Trips by Gender, by Weekday, by User Type: a heatmap that shows the number of bike trips broken down by gender for each day of the week by each user type (i.e., whether the user is a customer or a subscriber)
-  - This heatmap shows the number of rides per weekday, broken down by day, gender, and user type (non-subscriber or subscriber). Most rides were taken by male subscribers.
+  - This heatmap shows the number of rides per weekday, broken down by day, gender, and user type (non-subscriber or subscriber). Most rides were taken by male subscribers, especially toward the end of the week (Thursday-Saturday)
 * Customers by User Type: a pie chart depicting the percentages of users who are customers and who are subscribers
   - The results show that the vast majority of rides were taken by subscribers.
 * Bike Usage by Hour: a bar chart showing the hours of the day when rides were initiated (trip start time)
