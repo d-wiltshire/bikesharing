@@ -13,7 +13,8 @@ The Tableau Story contains seven visualizations:
 
 * Checkout Times for Users: a graph of the length of time that bikes are checked out for all riders
 * Checkout Times by Gender: a graph of the length of time that bikes are checked out for all riders, broken down by gender
-*
+* Trips by Weekday per Hour: a graph of the number of bike trips by weekday for each hour of the day as a heatmap
+* Trips by Gender (Weekday per Hour): a graph of the number of bike trips by weekday for each hour of the day as a heatmap, divided by gender into multiple heatmaps
 *
 *
 *
