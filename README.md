@@ -34,7 +34,7 @@ The Tableau Story contains seven visualizations:
 
 ## Summary
 
-The results show that the majority of NYC users in August 2019 were subscribers and male, and the highest use periods were on weekdays during morning and evening rush hours. This suggests that the majority of users in NYC are not tourists but residents who rely on Citibike for a daily commute. Therefore, in order to determine whether a similar bikesharing model would work well for a city like Des Moines, additional information regarding tourism dollars would be less helpful than information like 1) the population density of Des Moines and proximity between residential areas and commercial areas, 2) a map of Des Moines indicating which streets have bike lanes or where bikes are permitted on sidewalks, or 3) the types of industries in Des Moines and whether places of employment tend to be located in the downtown area.
+The results show that the majority of NYC users in August 2019 were subscribers and male, and the highest use periods were on weekdays during morning and evening rush hours. This suggests that the majority of users in NYC are not tourists but residents who rely on Citi Bike for a daily commute. Therefore, in order to determine whether a similar bikesharing model would work well for a city like Des Moines, additional information regarding tourism dollars would be less helpful than information like 1) the population density of Des Moines and proximity between residential areas and commercial areas, 2) a map of Des Moines indicating which streets have bike lanes or where bikes are permitted on sidewalks, or 3) the types of industries in Des Moines and whether places of employment tend to be located in the downtown area.
 
 
 
