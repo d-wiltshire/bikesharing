@@ -4,7 +4,7 @@
 
 The goal of this exercise is to analyze NYC Citibike data from August 2019 and to describe various metrics using visualizations in Tableau. The use case for these visualizations is a fictitious pitch to a body of investors to create a similar bikeshare program in Des Moines, Iowa. The visualizations depict information like the total number of rides broken down by gender, trip duration, time of day, etc., in order to help the investors make an informed decision. 
 
-The resulting Story can be viewed on Tableau Public here. (insert link)
+The resulting Story <a href="https://public.tableau.com/app/profile/david1924/viz/August2019CitibikeUsage/August2019CitibikeUsage">can be viewed on Tableau Public here</a>.
 
 
 ## Results
